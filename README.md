@@ -1,4 +1,4 @@
-## Retail Analytics — SQL Portfolio Project
+## Retail Analytics — SQL 
 
 Análisis de ventas de un e-commerce retail ficticio implementado sobre **MySQL**. El proyecto incluye modelado de base de datos relacional, carga de datos de ejemplo y queries analíticas orientadas a Business Intelligence.
 
